@@ -10,6 +10,10 @@
 ## Definition of Done
 Una tarea está terminada cuando:
 - tiene su Issue,
-- está subida con Pull Request y la ha mirado otra persona,
+- el Pull Request explica en 3 líneas qué es, cómo funciona y cómo se prueba,
+- está subida con Pull Request y la revisa otra persona (Alex revisa a Aritz, Aritz a Oscar y Oscar a Alex),
 - funciona (o se lee bien),
 - y está en "Hecho" en el tablero.
+
+## Entendernos entre los tres
+Al cerrar cada sprint, cada uno explica a los otros dos lo que ha hecho. Así los tres sabemos cómo funciona todo el proyecto.
