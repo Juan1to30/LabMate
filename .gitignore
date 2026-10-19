@@ -1,0 +1,14 @@
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+# Secretos: nunca al repositorio
+.env
+*.key
+*.pem
