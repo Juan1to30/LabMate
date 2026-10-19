@@ -1,24 +1,21 @@
-# Roles del equipo y Definition of Done
+# Roles y Definition of Done
 
-> Estado: **propuesta inicial del Sprint 1**. Los roles rotan entre sprints. Se revisan en la retrospectiva.
+## Roles (Sprint 1)
 
-## Roles del Sprint 1
+Los roles pueden cambiar en cada sprint.
 
-| Rol | Persona | Qué hace |
-|---|---|---|
-| Coordinación / Scrum Master | Aritz | Convoca el seguimiento semanal, mantiene el tablero al día y vigila que nadie se quede bloqueado. |
-| Responsable técnico (software) | Oscar | Propone y justifica el stack, y revisa que el diseño del programa sea viable. |
-| Responsable de infraestructura e IA local | Alex | Repositorio, GitHub Project, equipos de prueba y pruebas del modelo local. |
-| Responsable de documentación | Aritz (con aportaciones de todos) | README y memoria en LaTeX. Cada persona documenta lo que hace. |
+| Rol | Persona |
+|---|---|
+| Coordinación / Scrum Master | Aritz |
+| Responsable técnico | Oscar |
+| Infraestructura y documentación | Alex |
 
-## Definition of Done (qué significa "terminada")
+## Definition of Done
 
-Una tarea está terminada cuando se cumple **todo** esto:
+Una tarea está terminada cuando:
 
-1. Existe como **Issue** con etiqueta, responsable y vinculada al hito del sprint.
-2. El cambio entra por **Pull Request** y lo revisa **otra persona** del equipo (excepto la configuración inicial del Sprint 1).
-3. Si es documentación, se lee bien y, en el caso de la memoria, **compila a PDF sin errores**.
-4. Si es código o configuración, **se ha probado** y se explica cómo (comando o captura).
-5. **No hay secretos** (claves, contraseñas, tokens) en el repositorio.
-6. Si cambia el estado del proyecto, el **README** se actualiza.
-7. La tarjeta pasa a **Hecho** en el tablero con un enlace a la evidencia (PR, commit o captura).
+1. Tiene su Issue (con etiqueta, responsable e hito).
+2. El cambio se ha subido con Pull Request y lo ha mirado otra persona del equipo.
+3. Funciona o se lee bien (si es la memoria, compila a PDF).
+4. No hay contraseñas ni claves en el repositorio.
+5. Está en la columna "Hecho" del tablero.
